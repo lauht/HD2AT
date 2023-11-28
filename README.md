@@ -12,6 +12,9 @@ This is a PyTorch implementation of the paper: Heterogeneous Dual-Dynamic Attent
 
 ## Run
 1. Run `estimators.ipynb`
+   
 This script would run the preprocessing for raw data and construct the intervention graphs.
+
 2. Run `main.ipynb`
+
 This script builds an HD2AT model, and then trains and evaluates the model.
