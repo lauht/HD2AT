@@ -10,7 +10,7 @@ This is a PyTorch implementation of the paper: Heterogeneous Dual-Dynamic Attent
 * numpy==1.21.6
 * pandas==1.3.5
 
-## Run
+## How to train the model
 1. Run `estimators.ipynb`.
 This script would run the preprocessing for raw data and construct the intervention graphs.
 2. Run `main.ipynb`.
