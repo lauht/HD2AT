@@ -3,7 +3,7 @@
 This is a PyTorch implementation of the paper: Heterogeneous Dual-Dynamic Attention Network for Modeling Mutual Interplay of Stocks.
 
 ## Requirements
-* pytorch==3.7.13
+* python==3.7.13
 * torch==1.8.0
 * sklearn==1.0.2
 * talib==0.4.19
